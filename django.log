@@ -1,0 +1,9 @@
+hello
+Bad query or can't connect to 
+ NEO4J URI: bolt://localhost:7687 
+ PASS: Windows@1234 
+ USER: vaibhavnewCYPHER: MATCH(smt:SymptomTemplate)return smt
+data: {}
+hello
+data: [{'smt': {'multipleValues': 'string', 'timeRangeStart': 12, 'formalName': 'formal name', 'code': 'code', 'treatable': True, 'displayOrder': 23, 'criticality': True, 'timeType': 'string', 'range': True, 'updatedDate': 2006, 'descriptorFile': 'sfile', 'questionText': 'qtext', 'descriptors': 'descriptors', 'bias': 1, 'subGroups': ['g1', 'g2'], 'displayDrApp': True, 'definition': 'string', 'kioskName': 'string', 'id': 1, 'es_kioskName': 'es kiosk nam', 'antithesis': 2.7, 'dataStoreTemplates': ['t1', 't2'], 'timeRangeStop': 14, 'genderGroup': 'string gender', 'active': True, 'maxRange': 145.2, 'es_questionText': 'spain_q_text', 'cardinality': True, 'displaySymptom': True, 'ecw_prior': 12.021, 'rangeValues': ['r1', 'r2'], 'createdDate': 2006, 'timeUnitDefault': 11, 'name': 'SymptomTemplate', 'symptomType': 'string', 'scaleTimeLimitText': 'string', 'painSwellingID': 12122, 'minRange': 123.2}}]
+data_new: {'multipleValues': 'string', 'timeRangeStart': 12, 'formalName': 'formal name', 'code': 'code', 'treatable': True, 'displayOrder': 23, 'criticality': True, 'timeType': 'string', 'range': True, 'updatedDate': 2006, 'descriptorFile': 'sfile', 'questionText': 'qtext', 'descriptors': 'descriptors', 'bias': 1, 'subGroups': ['g1', 'g2'], 'displayDrApp': True, 'definition': 'string', 'kioskName': 'string', 'id': 1, 'es_kioskName': 'es kiosk nam', 'antithesis': 2.7, 'dataStoreTemplates': ['t1', 't2'], 'timeRangeStop': 14, 'genderGroup': 'string gender', 'active': True, 'maxRange': 145.2, 'es_questionText': 'spain_q_text', 'cardinality': True, 'displaySymptom': True, 'ecw_prior': 12.021, 'rangeValues': ['r1', 'r2'], 'createdDate': 2006, 'timeUnitDefault': 11, 'name': 'SymptomTemplate', 'symptomType': 'string', 'scaleTimeLimitText': 'string', 'painSwellingID': 12122, 'minRange': 123.2}
